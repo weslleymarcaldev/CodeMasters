@@ -3,7 +3,7 @@
 Uma landing page institucional criada com foco em performance, responsividade e boas práticas de Front-End.  
 Projetada para apresentar uma escola de tecnologia fictícia com layout moderno, parallax, gráficos, formulário e muito mais!
 
-> Desenvolvido como parte do portfólio de **Weslley Marçal** para vaga de Front-End.
+> Desenvolvido como parte do portfólio de **Weslley Marçal**.
 
 ---
 
