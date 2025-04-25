@@ -1,61 +1,101 @@
-# CodeIgniter 4 Framework
+# 🚀 CodeMasters - Landing Page em CodeIgniter 4
 
-## What is CodeIgniter?
+Uma landing page institucional criada com foco em performance, responsividade e boas práticas de Front-End.  
+Projetada para apresentar uma escola de tecnologia fictícia com layout moderno, parallax, gráficos, formulário e muito mais!
 
-CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
-More information can be found at the [official site](https://codeigniter.com).
+> Desenvolvido como parte do portfólio de **Weslley Marçal** para vaga de Front-End.
 
-This repository holds the distributable version of the framework.
-It has been built from the
-[development repository](https://github.com/codeigniter4/CodeIgniter4).
+---
 
-More information about the plans for version 4 can be found in [CodeIgniter 4](https://forum.codeigniter.com/forumdisplay.php?fid=28) on the forums.
+## 🧰 Tecnologias utilizadas
 
-You can read the [user guide](https://codeigniter.com/user_guide/)
-corresponding to the latest version of the framework.
+- ✅ **CodeIgniter 4**
+- ✅ **HTML5**, **CSS3**, **JavaScript**
+- ✅ **Bootstrap 5**
+- ✅ **Chart.js**
+- ✅ Design responsivo e moderno
+- ✅ Parallax e efeitos de transição suave
 
-## Important Change with index.php
+---
 
-`index.php` is no longer in the root of the project! It has been moved inside the *public* folder,
-for better security and separation of components.
+## 📸 Preview
 
-This means that you should configure your web server to "point" to your project's *public* folder, and
-not to the project root. A better practice would be to configure a virtual host to point there. A poor practice would be to point your web server to the project root and expect to enter *public/...*, as the rest of your logic and the
-framework are exposed.
+![preview](https://user-images.githubusercontent.com/0000000/preview.jpg) <!-- Substitua pelo seu print futuramente -->
 
-**Please** read the user guide for a better explanation of how CI4 works!
+---
 
-## Repository Management
+## 📂 Estrutura do Projeto
 
-We use GitHub issues, in our main repository, to track **BUGS** and to track approved **DEVELOPMENT** work packages.
-We use our [forum](http://forum.codeigniter.com) to provide SUPPORT and to discuss
-FEATURE REQUESTS.
+```
+/cn
+├── app/
+│   └── Controllers/
+│       └── Home.php
+├── public/
+│   ├── assets/
+│   │   ├── css/style.css
+│   │   ├── js/script.js
+│   │   └── img/
+│   └── index.php
+├── app/Views/
+│   └── landing.php
+└── ...
+```
 
-This repository is a "distribution" one, built by our release preparation script.
-Problems with it can be raised on our forum, or as issues in the main repository.
+---
 
-## Contributing
+## 🧪 Funcionalidades
 
-We welcome contributions from the community.
+- Página com **efeito parallax** no topo
+- **Cards interativos** com hover e imagens
+- **Gráfico dinâmico** de alunos usando Chart.js
+- **Formulário de contato** com layout clean
+- Design **100% responsivo**
+- Código limpo e bem organizado, pronto para escalar
 
-Please read the [*Contributing to CodeIgniter*](https://github.com/codeigniter4/CodeIgniter4/blob/develop/CONTRIBUTING.md) section in the development repository.
+---
 
-## Server Requirements
+## ⚙️ Como rodar localmente
 
-PHP version 8.1 or higher is required, with the following extensions installed:
+1. Clone o repositório:
 
-- [intl](http://php.net/manual/en/intl.requirements.php)
-- [mbstring](http://php.net/manual/en/mbstring.installation.php)
+```bash
+git clone https://github.com/weslleymarcaldev/CodeMasters.git
+```
 
-> [!WARNING]
-> - The end of life date for PHP 7.4 was November 28, 2022.
-> - The end of life date for PHP 8.0 was November 26, 2023.
-> - If you are still using PHP 7.4 or 8.0, you should upgrade immediately.
-> - The end of life date for PHP 8.1 will be December 31, 2025.
+2. Mova para a pasta do projeto:
 
-Additionally, make sure that the following extensions are enabled in your PHP:
+```bash
+cd CodeMasters
+```
 
-- json (enabled by default - don't turn it off)
-- [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
-- [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
-# CodeMasters
+3. Coloque o projeto no seu XAMPP em: `C:/xampp/htdocs/CodeMasters`
+
+4. Acesse no navegador:
+
+```
+http://localhost/CodeMasters/public
+```
+
+> ⚠️ Certifique-se que a extensão `intl` do PHP está habilitada no `php.ini`.
+
+---
+
+## 🧑‍💻 Autor
+
+Desenvolvido por **Weslley Marçal**  
+👨‍💻 Front-End Developer  
+📍 Belo Horizonte, MG – Brasil  
+🔗 [LinkedIn](https://linkedin.com/in/weslleymarcaldev)  
+🔗 [GitHub](https://github.com/weslleymarcaldev)  
+
+---
+
+## 📝 Licença
+
+Este projeto está sob a licença MIT.  
+Sinta-se livre para estudar, utilizar e adaptar este código.
+
+---
+
+### ⭐ Se gostou do projeto, deixe uma estrela no repositório!
