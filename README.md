@@ -20,7 +20,7 @@ Projetada para apresentar uma escola de tecnologia fictícia com layout moderno,
 
 ## 📸 Preview
 
-![preview](public/assets/img/preview.jpg)
+![preview](public/assets/img/preview.jpeg)
 
 ---
 
