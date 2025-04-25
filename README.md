@@ -20,7 +20,7 @@ Projetada para apresentar uma escola de tecnologia fictícia com layout moderno,
 
 ## 📸 Preview
 
-![preview](https://user-images.githubusercontent.com/0000000/preview.jpg) <!-- Substitua pelo seu print futuramente -->
+![preview](public/assets/img/preview.png)
 
 ---
 
@@ -95,4 +95,3 @@ Desenvolvido por **Weslley Marçal**
 
 Este projeto está sob a licença MIT.  
 Sinta-se livre para estudar, utilizar e adaptar este código.
-
