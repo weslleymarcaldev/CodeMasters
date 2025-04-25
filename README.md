@@ -96,6 +96,3 @@ Desenvolvido por **Weslley Marçal**
 Este projeto está sob a licença MIT.  
 Sinta-se livre para estudar, utilizar e adaptar este código.
 
----
-
-### ⭐ Se gostou do projeto, deixe uma estrela no repositório!
