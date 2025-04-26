@@ -3,7 +3,7 @@
 Uma landing page institucional criada com foco em performance, responsividade e boas práticas de Front-End.  
 Projetada para apresentar uma escola de tecnologia fictícia com layout moderno, parallax, gráficos, formulário e muito mais!
 
-> Desenvolvido como parte do portfólio de **Weslley Marçal** para vaga de Front-End.
+> Desenvolvido como parte do portfólio de **Weslley Marçal**.
 
 ---
 
@@ -20,7 +20,7 @@ Projetada para apresentar uma escola de tecnologia fictícia com layout moderno,
 
 ## 📸 Preview
 
-![preview](https://user-images.githubusercontent.com/0000000/preview.jpg) <!-- Substitua pelo seu print futuramente -->
+![preview](public/assets/img/preview.png)
 
 ---
 
@@ -95,7 +95,3 @@ Desenvolvido por **Weslley Marçal**
 
 Este projeto está sob a licença MIT.  
 Sinta-se livre para estudar, utilizar e adaptar este código.
-
----
-
-### ⭐ Se gostou do projeto, deixe uma estrela no repositório!
